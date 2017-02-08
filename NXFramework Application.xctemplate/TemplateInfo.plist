@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>此模板为任何应用程序提供了一个起点。</string>
+	<string>此模板为任何应用程序提供了一个起点,快速创建工程</string>
 	<key>Kind</key>
 	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
 	<key>Identifier</key>
@@ -256,7 +256,7 @@
 		<string>Classes/PGeneral/PUtility/</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.baidu.www</string>
+	<string>com.nxframework.template</string>
 	<key>Options</key>
 	<array>
 		<dict>
